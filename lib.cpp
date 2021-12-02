@@ -1,4 +1,6 @@
 #include "lib.h"
+
+
 char caratttere (char a){
   bool lettera ;
   char scambio;
