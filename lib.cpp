@@ -4,7 +4,7 @@
 char carattere (char a){
   bool lettera ;
   char scambio;
-  if (((65<= int (a)) and (int (a) <= 90)) or ((97 <= int (a)) and (int (a) < = 122 ))){
+  if (((65<= int (a)) and (int (a) <= 90)) or ((97 <= int (a)) and (int (a) <= 122 ))){
     lettera = true ;
   }else{ 
     lettera = false ;
