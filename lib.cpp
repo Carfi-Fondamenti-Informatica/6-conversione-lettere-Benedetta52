@@ -1,7 +1,7 @@
 #include "lib.h"
 
 
-char caratttere (char a){
+char carattere (char a){
   bool lettera ;
   char scambio;
   if (((65<= int (a)) and (int (a) <= 90)) or ((97 <= int (a)) and (int (a) < = 122 ))){
